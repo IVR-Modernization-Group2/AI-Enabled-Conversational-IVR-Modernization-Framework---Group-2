@@ -1,8 +1,11 @@
 AI-Enabled-Conversational-IVR-Modernization-Framework---Group-2
+
 **Project Overview**
 
 The AI-Enabled Conversational IVR Modernization Framework is designed to transform traditional VoiceXML (VXML)-based IVR systems into intelligent, AI-driven conversational platforms.
+
 Traditional IVR systems rely on menu-driven workflows and rule-based decision trees, which often lead to rigid user experiences and high maintenance costs. This project introduces a modernization framework that integrates legacy IVR systems with Conversational AI technologies to enable natural, context-aware, and scalable voice interactions.
+
 Instead of replacing existing infrastructure, the framework focuses on reusing legacy VXML assets through an adapter-based approach, ensuring cost-effectiveness, reduced risk, and smoother migration to modern cloud-based architectures.
 
 **Objectives**
@@ -20,7 +23,9 @@ Support cloud-native and scalable deployments
 Provide omnichannel capabilities (Voice, Chat, Messaging)
 
 **Traditional IVR System (As-Is)**
- Overview
+
+
+** Overview**
 
 Traditional IVR systems:
 
@@ -32,7 +37,8 @@ Implement rule-based logic using VoiceXML (VXML)
 
 Provide limited personalization and flexibility
 
-Core Components
+
+**Core Components**
 
 PSTN / SIP Network
 
@@ -48,7 +54,8 @@ TTS (Text-to-Speech)
 
 Backend Enterprise Systems (CRM, Billing, etc.)
 
-Key Limitations
+
+**Key Limitations**
 
 Rigid menu navigation
 
@@ -61,6 +68,7 @@ Limited speech intelligence
 High maintenance cost
 
 On-premise scalability constraints
+
 
  **Modernized IVR System (To-Be)**
 Overview
@@ -83,7 +91,8 @@ Context-aware interactions
 
 Omnichannel communication
 
-Core Components
+
+**Core Components**
 
 Cloud Telephony Layer
 
